@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "whatsapp group contacts extractor (JSON/CSV) free",
+    "version": "1.0",
+    "description": "Extracts all the contact numbers available in a whatsapp group and converts them to a JSON array file.",
+
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
